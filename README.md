@@ -109,6 +109,7 @@ With a supportive, beginner-friendly environment, we foster collaboration, conti
 
 <h3>📈 Visitor Counter</h3>
 
+
 <img src="https://visitor-badge.laobi.icu/badge?page_id=theintelliverse" id="counter">  
 
 ---
