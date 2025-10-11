@@ -7,8 +7,6 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500">
 
----
-
 <h3> 🚀 About Us</h3>
 
 The <b>Intelliverse Tech Community</b> is a vibrant group of passionate beginners and early learners united by a shared curiosity for technology and innovation.  
