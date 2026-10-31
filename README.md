@@ -15,6 +15,8 @@
 ---
 
 <img align="right" alt="The Intelliverse Tech Community Building AI Solutions" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="460">
+[![Website](https://img.shields.io/badge/The_Intelliverse-theintelliverse.tech-2F63E0?style=for-the-badge&logo=googlechrome&logoColor=white)](https://theintelliverse.tech)
+
 
 ### 🚀 About The Intelliverse
 
