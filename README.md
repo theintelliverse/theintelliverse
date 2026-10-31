@@ -8,6 +8,10 @@
 
 <p align="center">
   <b>Official Tech Community:</b> <code>The Intelliverse</code> | <b>GitHub:</b> <a href="https://github.com/theintelliverse"><code>@theintelliverse</code></a>
+  <a href="https://theintelliverse.tech">
+  <img src="https://theintelliverse.tech/the-intelliverse-mark.png" width="22" height="22" style="vertical-align: middle; margin-right: 6px;" />
+  <strong>theintelliverse.tech</strong>
+</a>
 </p>
 
 </div>
@@ -15,7 +19,6 @@
 ---
 
 <img align="right" alt="The Intelliverse Tech Community Building AI Solutions" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="460">
-[![Website](https://img.shields.io/badge/The_Intelliverse-theintelliverse.tech-2F63E0?style=for-the-badge&logo=googlechrome&logoColor=white)](https://theintelliverse.tech)
 
 
 ### 🚀 About The Intelliverse
